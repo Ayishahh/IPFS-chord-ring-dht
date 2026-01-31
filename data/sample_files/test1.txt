@@ -1,0 +1,7 @@
+This is a sample test file for the IPFS Ring DHT Simulator.
+
+File: test1.txt
+Purpose: Testing file insertion and retrieval operations.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

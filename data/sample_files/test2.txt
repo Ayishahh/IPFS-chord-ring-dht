@@ -1,0 +1,12 @@
+IPFS Ring DHT Simulator - Test File 2
+
+This file contains sample data for testing the distributed hash table.
+
+Key features being tested:
+1. File hashing and storage
+2. Routing path display
+3. B-tree operations
+4. File retrieval from any machine
+
+The quick brown fox jumps over the lazy dog.
+Pack my box with five dozen liquor jugs.

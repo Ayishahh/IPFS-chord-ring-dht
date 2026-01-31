@@ -1,0 +1,16 @@
+# Sample Configuration File
+
+[System]
+identifier_bits=8
+btree_order=5
+
+[Machines]
+machine_1=10
+machine_2=50
+machine_3=100
+machine_4=150
+machine_5=200
+
+[Test Files]
+file_1=data/sample_files/test1.txt
+file_2=data/sample_files/test2.txt
